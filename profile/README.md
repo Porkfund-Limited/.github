@@ -2,15 +2,10 @@
 
 ## About Porkfund
 
-Porkfund is a secured digital pig investment platform that is focused and determined on empowering African Pig farmers while enabling individual investors to earn profits on their funding capital.
+P:pig:rkfund is a secured digital pig investment platform that is focused and determined on empowering African Pig farmers while enabling individual investors to earn profits on their funding capital.
 
-<!--
+## Solving Farmer's Problems
+While farmers lack access to finance and inputs to rear Pigs in a commercial capacity, P:pig:rkfund intends to be ahead of its competitors by creating a niche and connecting our experienced pig farmers to individuals in urban areas who are looking for ways to diversify their investment opportunities and increase their income.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Interested in Investing?
+Visit our site to know more [P:pig:rkfund](https://porkfund.com)
