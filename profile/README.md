@@ -1,3 +1,5 @@
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://res.cloudinary.com/https-porkfund-com/image/upload/h_55,w_250/v1596576561/porkfund/logo_tx6aag.png" width="400"></a></p>
+
 ## About Porkfund
 
 Porkfund is a secured digital pig investment platform that is focused and determined on empowering African Pig farmers while enabling individual investors to earn profits on their funding capital.
